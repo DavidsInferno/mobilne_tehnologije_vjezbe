@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string-array name="cars">
+        <item>Mercedes</item>
+        <item>BMW</item>
+        <item>Audi</item>
+    </string-array>
+
+
+    <string-array name="mercedes">
+        <item>GLA SUV</item>
+        <item>G-class SUV</item>
+        <item>A-Class Sedan</item>
+    </string-array>
+
+    <string-array name="BMW">
+        <item>X5</item>
+        <item>i3</item>
+        <item>X7</item>
+    </string-array>
+
+    <string-array name="audi">
+        <item>A6</item>
+        <item>Q3</item>
+        <item>R8</item>
+    </string-array>
+</resources>
